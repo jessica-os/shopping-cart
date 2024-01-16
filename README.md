@@ -3,9 +3,10 @@
  ## Veja como ficou o projeto:
  
  ## Desktop:
-
+<img src="./src/videos-readme/shopping_cart_desktop.gif" alt="video do projeto desktop">
   
   ## Mobile:
+   <img src="./src/videos-readme/shopping_cart_mobile.gif" alt="video do projeto mobile">
   
    
   ## Do que se trata esse projeto?
