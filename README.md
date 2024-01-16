@@ -15,7 +15,8 @@ A busca pelos produtos é feita através de uma requisição feita a api do [MER
 
 ## Quais interações são realizadas?
 - O usuário pode pesquisar através do input por produtos eletrônicos como IPHONE, MICROFONE, COMPUTADOR,etc.
-- É possível adicionar os produtos ao carrinho, que faz a soma total dos produtos adicionados.
+- É possível adicionar os produtos ao carrinho, que faz a soma total dos produtos adicionados e, também é possível remover produtos
+e a soma já é atualizada.
 
   
 ## Habilidades desenvolvidas:
