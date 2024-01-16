@@ -11,3 +11,20 @@ body {
   max-width: 1100px;
   margin: 0 auto;
 }
+
+@media (max-width: 480px) {
+  .card-price {
+    font-size: 25px;
+  }
+  .card-image {
+    width: 90%;
+  }
+  .cart {
+    width: 70%;
+    padding: 110px 5px 20px;
+  }
+ 
+  .cart-resume{
+    font-size: 1.6rem;
+  }
+}
