@@ -41,4 +41,4 @@ e a soma já é atualizada.
 -REACT <img align="center" alt="REACT" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" >     
           
 
-Para ver o projeto pronto, [CLIQUE AQUI!]()
+Para ver o projeto pronto, [CLIQUE AQUI!](https://jessica-os.github.io/shopping-cart/)
