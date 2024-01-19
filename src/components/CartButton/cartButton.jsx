@@ -3,7 +3,7 @@ import "./cartButton.css";
 import { IoCartOutline } from "react-icons/io5";
 import AppContext from "../../Context/AppContext";
 
-function CartButton() {
+function CartButton({ product }) {
   const { cartItems, isCartVisible, setIsCartVisible } = useContext(AppContext);
 
   return (
