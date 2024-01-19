@@ -3,9 +3,10 @@
  ## Veja como ficou o projeto:
  
  ## Desktop:
-
+<img src="./src/videos-readme/shopping_cart_desktop.gif" alt="video do projeto desktop">
   
   ## Mobile:
+   <img src="./src/videos-readme/shopping_cart_mobile.gif" alt="video do projeto mobile">
   
    
   ## Do que se trata esse projeto?
@@ -14,7 +15,8 @@ A busca pelos produtos é feita através de uma requisição feita a api do [MER
 
 ## Quais interações são realizadas?
 - O usuário pode pesquisar através do input por produtos eletrônicos como IPHONE, MICROFONE, COMPUTADOR,etc.
-- É possível adicionar os produtos ao carrinho, que faz a soma total dos produtos adicionados.
+- É possível adicionar os produtos ao carrinho, que faz a soma total dos produtos adicionados e, também é possível remover produtos
+e a soma já é atualizada.
 
   
 ## Habilidades desenvolvidas:
@@ -39,4 +41,4 @@ A busca pelos produtos é feita através de uma requisição feita a api do [MER
 -REACT <img align="center" alt="REACT" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" >     
           
 
-Para ver o projeto pronto, [CLIQUE AQUI!]()
+Para ver o projeto pronto, [CLIQUE AQUI!](https://jessica-os.github.io/shopping-cart/)
